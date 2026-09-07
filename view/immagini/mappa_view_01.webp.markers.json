@@ -1,0 +1,42 @@
+{
+  "size": {
+    "w": 1500,
+    "h": 934
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "view/immagini/mappa_view_01.webp"
+  ],
+  "overlays": [
+    {
+      "path": "view/immagini/mappa_view_01.webp",
+      "name": "mappa_view_01",
+      "visible": false
+    }
+  ],
+  "activeBase": "view/immagini/mappa_view_01.webp",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
