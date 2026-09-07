@@ -15,13 +15,7 @@
   "bases": [
     "view/immagini/mappa_view_01.webp"
   ],
-  "overlays": [
-    {
-      "path": "view/immagini/mappa_view_01.webp",
-      "name": "mappa_view_01",
-      "visible": false
-    }
-  ],
+  "overlays": [],
   "activeBase": "view/immagini/mappa_view_01.webp",
   "measurement": {
     "displayUnit": "km",
